@@ -1,0 +1,53 @@
+name: yoo_se
+description: Location Sharing.
+
+version: 1.1.8+9
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_dynamic_links: ^0.5.0+11
+  cloud_firestore:
+  firebase_auth: ^3.3.5
+  cloud_functions: ^3.2.5
+  firebase_analytics: ^5.0.2
+  contacts_service: ^0.6.3
+
+  get_it: ^1.0.3+2s
+  rxdart: ^0.22.0
+  location: ^2.3.5
+  google_maps_flutter: 0.5.23+1
+  provider: ^4.0.0+1
+  timeago: ^2.0.18
+  intl: ^0.17.0
+  share: ^0.6.2+1
+  url_launcher: ^5.2.5
+  device_info: ^0.4.1+4
+  geolocator: ^5.2.0
+
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.7.3"
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "images/Yoo_Icon.png"
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+   - images/icon.png
+   - images/2xicon.png
+   - images/qr-code.png
+

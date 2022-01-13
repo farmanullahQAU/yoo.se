@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>622422058479-iglm4lf97ifihv8a2h5ttfarj1n1amu7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.622422058479-iglm4lf97ifihv8a2h5ttfarj1n1amu7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>622422058479-ps319oi2j0anjqmvviedeodi76l075mp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjLBIFfafV83c0ZcGcnrXJsP-jzOf1cvM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>622422058479</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>se.yoo.Yoo</string>
+	<key>PROJECT_ID</key>
+	<string>yoose-70566</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yoose-70566.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:622422058479:ios:e0eb79e94a8e917e28821a</string>
+	<key>DATABASE_URL</key>
+	<string>https://yoose-70566.firebaseio.com</string>
+</dict>
+</plist>
